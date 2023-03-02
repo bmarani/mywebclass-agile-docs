@@ -7,10 +7,7 @@ that outlines how the website will collect, store, and use user data. The goal o
 theme is to provide a solid foundation for a website that is both functional and compliant
 with legal and ethical standards for user privacy.  
 
-establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
+
 ## Initiative(s)
 
 * [CI/CD Pipeline](documentation/theme_1/Initiative_1/initiative_basic_webpage_template.md)
