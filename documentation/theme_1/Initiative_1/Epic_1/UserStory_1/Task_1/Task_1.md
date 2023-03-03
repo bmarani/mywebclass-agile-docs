@@ -17,3 +17,5 @@ Priority: [this is high priority as the team of developers will use it to start]
 Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
 
 Notes: [Project structure will be modified based on feedback]
+
+<!--Rajiv - your Efforts estimates should be in hours, put only like 10 hours or 24 hours or 48 hours etc as example->
