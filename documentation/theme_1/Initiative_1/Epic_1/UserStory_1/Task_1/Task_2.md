@@ -5,7 +5,7 @@ User Story: [As a project manager, creating the git repository with defined
 
 Description: [Creating a README file with an overview of the project and set clear goals]
 
-Effort Estimate: [since this is the starting point, time estimate will be ~24 hours]
+Effort Estimate: [24 hours]
 
 Assigned To: [Project Manager]
 
