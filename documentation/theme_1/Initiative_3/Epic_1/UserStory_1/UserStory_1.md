@@ -1,5 +1,5 @@
-"As a [website owner], I want to [ ensure a smooth deployment process] so
-that [my website can launch on time without any technical glitches]."
+"As a website owner, I want to ensure a smooth deployment process so
+that my website can launch on time without any technical glitches."
 
 
 

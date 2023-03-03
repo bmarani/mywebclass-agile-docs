@@ -33,4 +33,4 @@ Priority: [High]
 
 # List stories related to this theme
 1. [As a website owner, I want to ensure a smooth deployment process so
-that my website can launch on time without any technical glitches.](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+that my website can launch on time without any technical glitches.](documentation/theme_1/Initiative_3/Epic_1/UserStory_1/UserStory_1.md)

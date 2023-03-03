@@ -12,7 +12,7 @@ Description: [Work with the web development team to create a staging environment
                                   The website owner and web development team agree that the
                                   website is ready for deployment.]
 
-Effort Estimate: [~100 hours]
+Effort Estimate: [24 hours]
 
 Assigned To: [web developers and website owner]
 
