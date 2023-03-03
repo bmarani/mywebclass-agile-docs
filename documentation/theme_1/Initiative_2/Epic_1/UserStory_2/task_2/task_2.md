@@ -7,7 +7,7 @@ User Story: [As a user, I want to be able to request that my
 Description: [Develop and document a process for acknowledging receipt of user
              deletion requests and providing users with a timeframe for completing the request]
 
-Effort Estimate: [~90 hours]
+Effort Estimate: [20 hours]
 
 Assigned To: [developers responsible for security]
 
@@ -17,4 +17,3 @@ Status: [Track the status of the task, such as "not started", "in progress", "bl
 
 Notes: [can be adjusted with feedback]
 
-<!--Rajiv - Task's Estimate seems to be higher, please recheck->
