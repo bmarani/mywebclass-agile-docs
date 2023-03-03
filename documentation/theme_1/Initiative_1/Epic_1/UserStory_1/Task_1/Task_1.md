@@ -8,7 +8,7 @@ Description: [Determine the directory structure for the git repository,
              keep everything organized]
 
 Effort Estimate: [this should take some time because it 
-                 is the starting point for everyone so ~24 hours]
+                 is the starting point for everyone so 24 hours]
 
 Assigned To: [Project Manager will be responsible for this]
 
@@ -18,4 +18,4 @@ Status: [Track the status of the task, such as "not started", "in progress", "bl
 
 Notes: [Project structure will be modified based on feedback]
 
-<!--Rajiv - your Efforts estimates should be in hours, put only like 10 hours or 24 hours or 48 hours etc as example->
+
