@@ -1,4 +1,4 @@
-"As a [project manager], I want to [create a git repository] so that [it has defined structures]."
+"As a project manager, I want to create a git repository so that it has defined structures."
 
 Acceptance Criteria:
 
@@ -11,4 +11,3 @@ the repository structure should be modified based on feedback from the team
 2. [create a read me file with clear overview and goals](documentation/theme_1/Initiative_1/Epic_1/UserStory_1/Task_1/Task_2/md)
 3. [define the process for making changes and submitting pull requests](documentation/)
 
-<!--Rajiv - please remove [] from User Story description->
