@@ -14,4 +14,4 @@ the repository should be easy to navigate.
 # List Stories related to this theme
 1. [select a git repository platform](https://github.com/bmarani/mywebclass-agile-docs/blob/main/documentation/theme_1/Initiative_1/Epic_1/UserStory_2/Task_2/Task_1.md)
 2. [create a new repository on the platform](https://github.com/bmarani/mywebclass-agile-docs/blob/main/documentation/theme_1/Initiative_1/Epic_1/UserStory_2/Task_2/Task_2.md)
-3. [invite team members to the repository](https://github.com/bmarani/mywebclass-agile docs/blob/main/documentation/theme_1/Initiative_1/Epic_1/UserStory_2/Task_2/Task_3.md)
+3. [invite team members to the repository](https://github.com/bmarani/mywebclass-agile-docs/blob/main/documentation/theme_1/Initiative_1/Epic_1/UserStory_2/Task_2/Task_3.md)
