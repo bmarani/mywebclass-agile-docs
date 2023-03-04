@@ -16,5 +16,5 @@ available to visitors without any downtime or errors.
 
 # List Stories related to this theme
 1. [Deploy the website to the live server, using a reliable hosting provider and following best 
-practices for server configuration and security.](documentaion/theme_1/Initiative_3/Epic_1/UserStory_1/Task_1/Task_1.md)
-2. [thoroughly test the website's functionality, including navigation, forms and images](documentaion/theme_1/Initiative_3/Epic_1/UserStory_1/Task_1/Task_2.md)
+practices for server configuration and security.](https://github.com/bmarani/mywebclass-agile-docs/blob/main/documentation/theme_1/Initiative_3/Epic_1/UserStory_1/task_1/task_1.md)
+2. [thoroughly test the website's functionality, including navigation, forms and images](https://github.com/bmarani/mywebclass-agile-docs/blob/main/documentation/theme_1/Initiative_3/Epic_1/UserStory_1/task_1/task_2.md)
