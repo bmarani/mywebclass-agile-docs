@@ -12,7 +12,7 @@ Description: [Deploy the website to the live server, using a reliable hosting pr
                                   Any issues that arise after deployment are addressed within
                                   two business days of being reported.]
 
-Effort Estimate: [~100 hours]
+Effort Estimate: [24 hours]
 
 Assigned To: [Web development team]
 

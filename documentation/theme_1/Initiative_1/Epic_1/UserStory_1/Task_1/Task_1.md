@@ -7,8 +7,8 @@ Description: [Determine the directory structure for the git repository,
              this is to make it easy for the team to follow the structure and 
              keep everything organized]
 
-Effort Estimate: [this should take some time because it 
-                 is the starting point for everyone so 24 hours]
+Effort Estimate: [24 hours]
+
 
 Assigned To: [Project Manager will be responsible for this]
 

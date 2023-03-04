@@ -6,8 +6,8 @@ The repository structure should be mentioned in the README file,
 the README file should provide an overview of the project and clear goals
 the repository structure should be modified based on feedback from the team
 
-# List Stories related to this theme
+# List tasks related to this theme
 1. [determine directory structure for the project](documentation/theme_1/Initiative_1/Epic_1/UserStory_1/Task_1/Task_1.md)
-2. [create a read me file with clear overview and goals](documentation/theme_1/Initiative_1/Epic_1/UserStory_1/Task_1/Task_2/md)
-3. [define the process for making changes and submitting pull requests](documentation/)
+2. [create a read me file with clear overview and goals](documentation/theme_1/Initiative_1/Epic_1/UserStory_1/Task_1/Task_2.md)
+3. [define the process for making changes and submitting pull requests](documentation/theme_1/Initiative_1/Epic_1/UserStory_1/Task_1/Task_3.md)
 
