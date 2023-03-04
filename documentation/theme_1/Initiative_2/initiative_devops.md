@@ -59,7 +59,7 @@ Dependencies: [Availability of necessary hardware and software resources to deve
 Team: [Devops engineer, security developer and quality Assurance]
 
 # List epics related to this theme
-* [Implement Google Analytics to Track User Behavior and Analyze User Data](documentation/theme_1/Initiative_1/Epic_1/Epic_1.md)
+* [Implement Google Analytics to Track User Behavior and Analyze User Data](https://github.com/bmarani/mywebclass-agile-docs/blob/main/documentation/theme_1/Initiative_2/Epic_1/Epic_1.md)
 
 ## Test Plan:
 Compliance Testing: Test the webpage for compliance with relevant regulations 
