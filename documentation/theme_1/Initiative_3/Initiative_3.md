@@ -51,7 +51,8 @@ Team: [Web designer: responsible for creating the design mockups and wireframes 
       Server Administrator: responsible for setting up and maintaining the server and hosting infrastructure]
 
 # List epics related to this theme
-1. [Deployment and launch](documentation/theme_1/Initiative_3/Epic_1/Epic_1.md)
+1. [Deployment and launch](https://github.com/bmarani/mywebclass-agile-docs/blob/main/documentation/theme_1/Initiative_3/Epic_1/Epic_1.md
+)
 
 ## Test Plan:
 Functionality Testing: Test all the links, buttons, forms, and other interactive elements 
