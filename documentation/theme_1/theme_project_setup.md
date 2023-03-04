@@ -10,9 +10,9 @@ with legal and ethical standards for user privacy.
 
 ## Initiative(s)
 
-* [CI/CD Pipeline](https://github.com/bmarani/mywebclass-agile-docs/tree/main/documentation/theme_1/Initiative_1)
-* [Create a safe and secure webpage](https://github.com/bmarani/mywebclass-agile-docs/tree/main/documentation/theme_1/Initiative_2)
-* [Develop a basic webpage that meets user needs](https://github.com/bmarani/mywebclass-agile-docs/tree/main/documentation/theme_1/Initiative_3)
+* [CI/CD Pipeline](https://github.com/bmarani/mywebclass-agile-docs/blob/main/documentation/theme_1/Initiative_1/initiative_basic_webpage_template.md)
+* [Create a safe and secure webpage](https://github.com/bmarani/mywebclass-agile-docs/blob/main/documentation/theme_1/Initiative_2/initiative_devops.md)
+* [Develop a basic webpage that meets user needs](https://github.com/bmarani/mywebclass-agile-docs/blob/main/documentation/theme_1/Initiative_3/Initiative_3.md)
 
 
 ## Test plan
