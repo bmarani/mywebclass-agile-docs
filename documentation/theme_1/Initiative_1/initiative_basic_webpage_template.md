@@ -41,7 +41,7 @@ Dependencies: [version control, infrastructure and testing]
 Team: [Devops engineer, web developer and quality Assurance]
 
 # List epics related to this theme
-* [set up Git repository](documentation/theme_1/Initiative_1/Epic_1/Epic_1.md)
+* [set up Git repository](https://github.com/bmarani/mywebclass-agile-docs/blob/main/documentation/theme_1/Initiative_1/Epic_1/Epic_1.md)
 
 ## Test Plan:
 Code Coverage: The CI/CD pipeline should include automated code coverage checks
